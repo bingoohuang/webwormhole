@@ -1,0 +1,7 @@
+/web/webwormhole.wasm
+/web/wasm_exec.js
+
+# Project exclude paths
+/web/main.js
+/web/sw.js
+/web/ww.js
